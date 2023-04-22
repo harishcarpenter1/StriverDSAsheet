@@ -1,5 +1,5 @@
 // program to print the top k frequent elements from the given array.
-<h1>GFG practice link - <a href="https://practice.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1">practice here!</a></h1>
+// GFG practice link - https://practice.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1
 
 // C++ Solution -
 
